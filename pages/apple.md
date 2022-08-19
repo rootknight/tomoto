@@ -5,7 +5,7 @@
 
 #### 1.1 打开App Store，退出登录
 
-<img src="apple/apple01-16608960816676.png" style="zoom: 80%;" /><img src="apple/apple02-16608960770705.png" style="zoom:80%;" />
+<img src="./apple/apple01-16608960816676.png" style="zoom: 80%;" /><img src="apple/apple02-16608960770705.png" style="zoom:80%;" />
 
 #### 1.2 登录下面提供的账号
 
@@ -16,19 +16,19 @@
 
 ```
 
-<img src="apple/apple03.png" style="zoom:60%;" /> <img src="apple/apple04-16608962660841-16609006937421.png" style="zoom:60%;" /> <img src="apple/apple05-16608962732422.png" style="zoom:60%;" />
+<img src="./apple/apple03.png" style="zoom:60%;" /> <img src="apple/apple04-16608962660841-16609006937421.png" style="zoom:60%;" /> <img src="apple/apple05-16608962732422.png" style="zoom:60%;" />
 
 #### 1.3 点击下方按钮，安装客户端
 
-[![](apple/button_download.svg)](https://apps.apple.com/us/app/shadowrocket/id932747118)
+[![](./apple/button_download.svg)](https://apps.apple.com/us/app/shadowrocket/id932747118)
 
 #### 1.4 安装完成后请及时退出登录
 
-![](apple/apple02-16608961103787.png)
+![](./apple/apple02-16608961103787.png)
 
 ## 2 点击这个按钮 👇👇👇
 
-[![](apple/button_import.svg)](shadowrocket://add/https://cdn.jsdelivr.net/gh/ssrsub/ssr@master/Clash.yml)
+[![](./apple/button_import.svg)](shadowrocket://add/https://cdn.jsdelivr.net/gh/ssrsub/ssr@master/Clash.yml)
 
 ## 3 开启服务
 **首先点击 连通性测试 选择一个延迟数字低的 服务器节点，点击最上面开关即可启用**
@@ -37,13 +37,13 @@
 
 
 
-![](apple/apple06.png)
+![](./apple/apple06.png)
 
 ## 4 设置选项
 **按下图设置自动更新、按延迟排序**
-![](apple/apple07.png)
+![](./apple/apple07.png)
 
 **若番茄失效，按下图更换可用服务器**
 
-![](apple/apple06-16608961224128.png)
+![](./apple/apple06-16608961224128.png)
 
