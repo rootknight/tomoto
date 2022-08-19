@@ -4,9 +4,9 @@
 
 ## 下载Letstalk
 
-![](./letstalk/download_android.svg)(https://Letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/Letstalk_app.apk)   ![](./letstalk/download_ios.svg)(https://Letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/Letstalk_app.apk)
+[![](./letstalk/download_android.svg)](https://Letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/Letstalk_app.apk)   [![](./letstalk/download_ios.svg)](https://Letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/Letstalk_app.apk)
 
-![](./letstalk/download_windows.svg)(https://Letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/Letstalk_app.apk)    ![](./letstalk/download_mac.svg)(https://Letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/Letstalk_app.apk)
+![](./letstalk/download_windows.svg)(https://Letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/Letstalk_app.apk)    [![](./letstalk/download_mac.svg)](https://Letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/Letstalk_app.apk)
 
 
 ## 常见问题
@@ -18,8 +18,8 @@
 请根据各机型引导进行通知设置
 
 1. [华为手机](#1-华为手机)
-2. [OPPO手机](#2-OPPO手机)
-3. [Vivo 手机](#3-Vivo 手机)
+2. [OPPO手机](#2-OPPO-手机)
+3. [Vivo 手机](#3-Vivo-手机)
 4. [小米手机](#4-小米手机)
 5. [三星手机](#5-三星手机)
 
