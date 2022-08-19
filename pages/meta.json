@@ -1,7 +1,9 @@
 {
-  "index": "Introduction",
-  "get-started": "Get Started",
-  "features": "Features",
-  "themes": "Themes",
-  "advanced": "Advanced"
+  "index": "使用说明",
+  "android": "安卓手机",
+  "apple": "苹果手机",
+  "windows": "Windows电脑",
+  "mac": "Mac电脑",
+  "guide": "番茄后可以做什么",
+  "letstalk": "Letstalk使用指南"
 }
