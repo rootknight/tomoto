@@ -2,7 +2,7 @@
 
 **此教程仅供内部传阅，请勿大范围传播，请在默认浏览器打开后使用**
 
-![](./index/open_browser.png)
+<img src="./index/open_browser.png" style="zoom:20%;" />
 
 ## 番茄
 
