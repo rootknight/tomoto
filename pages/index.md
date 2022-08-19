@@ -7,7 +7,7 @@ import Callout from 'nextra-theme-docs/callout'
   **此教程仅供内部传阅，请勿大范围传播，请在默认浏览器打开后使用**
 </Callout>
 
-![](src="./index/open_browser.png)
+<Image src="/index/open_browser.png" width={120} />
 
 ## 番茄
 
