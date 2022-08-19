@@ -12,21 +12,21 @@ import Callout from 'nextra-theme-docs/callout'
 
 
 
-[![](windows/button_download.svg)](https://ghproxy.com/https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.18.6/Clash.for.Windows.Setup.0.18.6.exe)
+[![](./windows/button_download.svg)](https://ghproxy.com/https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.18.6/Clash.for.Windows.Setup.0.18.6.exe)
 
 
 ## 2 点击这个按钮 👇👇👇
 
-[![](windows/button_import.svg)](clash://install-config?url=https://cdn.jsdelivr.net/gh/ssrsub/ssr@master/Clash.yml)
+[![](./windows/button_import.svg)](clash://install-config?url=https://cdn.jsdelivr.net/gh/ssrsub/ssr@master/Clash.yml)
 
 ## 3 启用服务
 **打开客户端的侧边栏的 General，勾选 System Proxy 即可启用**
 
-![](windows/windows01.png)
+![](./windows/windows01.png)
 
 ## 4 设置选项
 **按下图设置自动更新**
 
-![](windows/windows02.png)
+![](./windows/windows02.png)
 
-![](windows/windows03.png)
+![](./windows/windows03.png)
