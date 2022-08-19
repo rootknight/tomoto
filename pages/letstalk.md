@@ -4,9 +4,9 @@
 
 ## 下载Letstalk
 
-[![](letstalk/download_android.svg)](https://Letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/Letstalk_app.apk)[![](letstalk/download_ios.svg)](https://Letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/Letstalk_app.apk)
+![](./letstalk/download_android.svg)(https://Letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/Letstalk_app.apk)   ![](./letstalk/download_ios.svg)(https://Letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/Letstalk_app.apk)
 
-[![](letstalk/download_windows.svg)](https://Letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/Letstalk_app.apk)[![](letstalk/download_mac.svg)](https://Letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/Letstalk_app.apk)
+![](./letstalk/download_windows.svg)(https://Letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/Letstalk_app.apk)    ![](./letstalk/download_mac.svg)(https://Letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/Letstalk_app.apk)
 
 
 ## 常见问题
@@ -36,7 +36,7 @@
 
 **注**：你可以在 **允许通知** 一栏下方依次检查各类通知的设置情况，如关闭 **静默通知**、打开 **锁屏通知** 和 **横幅通知**、打开通知铃声等。
 
-<img src="letstalk/image-20220819131514680-16608963779384.png" alt="image-20220819131514680" style="zoom:25%;" />
+<img src="./letstalk/image-20220819131514680-16608963779384.png" alt="image-20220819131514680" style="zoom:25%;" />
 
 ##### 应用启动管理
 
@@ -45,7 +45,7 @@
 3. 找到 **Letstalk**，确认 **应用启动管理** 为关闭状态
 4. 在Letstalk的应用启动管理中，打开 **允许自启动**、**允许关联启动**、**允许后台活动** 三项开关
 
-<img src="letstalk/image-20220819131711142-16608963801155.png" alt="image-20220819131711142" style="zoom:25%;" />
+<img src="./letstalk/image-20220819131711142-16608963801155.png" alt="image-20220819131711142" style="zoom:25%;" />
 
 ##### 开启智能省流量白名单
 
@@ -53,7 +53,7 @@
 2. 点击 **流量管理** > **智能省流量**
 3. 确认**不受数据用量限制的应用**中，**Letstalk** 为开启状态
 
-<img src="letstalk/image-20220819131826176-16608963818786.png" alt="image-20220819131826176" style="zoom:25%;" />
+<img src="./letstalk/image-20220819131826176-16608963818786.png" alt="image-20220819131826176" style="zoom:25%;" />
 
 #### 2 OPPO 手机
 
@@ -64,7 +64,7 @@
 3. 找到并点击 **Letstalk**
 4. 确认 **允许通知** 一栏为开启状态
 
-<img src="letstalk/image-20220819132013309-16608963840887.png" alt="image-20220819132013309" style="zoom:25%;" />
+<img src="./letstalk/image-20220819132013309-16608963840887.png" alt="image-20220819132013309" style="zoom:25%;" />
 
 ##### 应用启动管理
 
@@ -73,7 +73,7 @@
 3. 找到并分别点击 **自启动管理**、**关联启动管理** 两项开关
 4. 找到 **Letstalk** 并打开上述两项开关
 
-<img src="letstalk/image-20220819132131124-16608963866288.png" alt="image-20220819132131124" style="zoom:25%;" />
+<img src="./letstalk/image-20220819132131124-16608963866288.png" alt="image-20220819132131124" style="zoom:25%;" />
 
 #### **3 Vivo 手机**
 
@@ -84,7 +84,7 @@
 3. 找到并点击 **Letstalk**
 4. 确认 **允许通知** 一栏为开启状态
 
-<img src="letstalk/image-20220819132242590-16608963894999.png" alt="image-20220819132242590" style="zoom:25%;" />
+<img src="./letstalk/image-20220819132242590-16608963894999.png" alt="image-20220819132242590" style="zoom:25%;" />
 
 #### **4 小米手机**
 
@@ -95,7 +95,7 @@
 3. 点击 **悬浮通知**，确认**不屏蔽**已上滑的弹出通知，且Letstalk的悬浮通知权限为开启状态
 4. 点击 **通知管理**，找到并确认 **Letstalk** 一栏为开启状态
 
-<img src="letstalk/image-20220819132602902-166089639214510.png" alt="image-20220819132602902" style="zoom:25%;" />
+<img src="./letstalk/image-20220819132602902-166089639214510.png" alt="image-20220819132602902" style="zoom:25%;" />
 
 ##### 应用启动管理
 
@@ -104,7 +104,7 @@
 3. 找到并点击 **授权管理**，点击 **自启动管理**
 4. 找到并确认 **Letstalk** 一栏为开启状态
 
-<img src="letstalk/image-20220819132648799-166089639584811.png" alt="image-20220819132648799" style="zoom:25%;" />
+<img src="./letstalk/image-20220819132648799-166089639584811.png" alt="image-20220819132648799" style="zoom:25%;" />
 
 #### **5 三星手机**
 
@@ -122,4 +122,4 @@
 3. 点击 **应用程序管理**
 4. 在 **自动运行应用程序** 中找到 **Letstalk**，确认 **Letstalk** 一栏为开启状态
 
-<img src="letstalk/image-20220819132812213-166089639848812.png" alt="image-20220819132812213" style="zoom:25%;" />
+<img src="./letstalk/image-20220819132812213-166089639848812.png" alt="image-20220819132812213" style="zoom:25%;" />
