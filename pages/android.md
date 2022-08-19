@@ -9,16 +9,16 @@
 
 **自动更新填写 480 后，点击右上角保存**
 
-<img src="./android/android-time-16608959888612.jpg" style="zoom: 80%;" />
+![](./android/android-time-16608959888612.jpg)
 
 ## 3 开启服务
 **回到主界面，点击顶部灰色卡片，卡片颜色变成蓝色即代表代理已开启**
 
-<img src="./android/android-start02-16608959932513.jpg" style="zoom:50%;" />
+![](./android/android-start02-16608959932513.jpg)
 
 ## 4 设置选项
 
 **设置-应用：打开 自动重启（可保证不被后台杀掉）**
 **各机型不同，请在后台锁定Clash，防止后台杀掉**
 
-<img src="./android/android-setting01-16608960013244.jpg" style="zoom:50%;" />
+![](./android/android-setting01-16608960013244.jpg)
