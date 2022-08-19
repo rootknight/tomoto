@@ -1,8 +1,13 @@
+import Image from 'next/image'
+import Callout from 'nextra-theme-docs/callout'
+
 # 使用说明
 
-**此教程仅供内部传阅，请勿大范围传播，请在默认浏览器打开后使用**
+<Callout emoji="💡">
+  **此教程仅供内部传阅，请勿大范围传播，请在默认浏览器打开后使用**
+</Callout>
 
-<img src="./index/open_browser.png" style="zoom:25%;" />
+![](./index/open_browser.png)
 
 ## 番茄
 

@@ -1,5 +1,10 @@
+import Image from 'next/image'
+import Callout from 'nextra-theme-docs/callout'
+
 # 安卓手机
-**请在默认浏览器打开此页面**
+<Callout emoji="💡">
+  **此教程仅供内部传阅，请勿大范围传播，请在默认浏览器打开后使用**
+</Callout>
 
 ## 1 下载并安装 Clash for Android 客户端
 [![](./android/button_download-16608959279001.svg)](https://ghproxy.com/https://github.com/Kr328/ClashForAndroid/releases/download/v2.4.14/cfa-2.4.14-foss-arm64-v8a-release.apk)
