@@ -4,9 +4,9 @@
 
 ## 下载Letstalk
 
-[![](./letstalk/download_android.svg)](https://Letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/Letstalk_app.apk)   [![](./letstalk/download_ios.svg)](https://Letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/Letstalk_app.apk)
+[![](./letstalk/download_android.svg)](https://Letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/Letstalk_app.apk)        [![](./letstalk/download_ios.svg)](https://Letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/Letstalk_app.apk)
 
-![](./letstalk/download_windows.svg)(https://Letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/Letstalk_app.apk)    [![](./letstalk/download_mac.svg)](https://Letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/Letstalk_app.apk)
+[![](./letstalk/download_windows.svg)](https://Letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/Letstalk_app.apk)        [![](./letstalk/download_mac.svg)](https://Letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/Letstalk_app.apk)
 
 
 ## 常见问题
