@@ -2,7 +2,7 @@
 
 **此教程仅供内部传阅，请勿大范围传播，请在默认浏览器打开后使用**
 
-<img src="./index/image-20220818120028637.png" alt="image-20220818120028637" style="zoom: 15%;" />
+![](./index/open_browser.png)
 
 ## 番茄
 
@@ -19,4 +19,3 @@
 ## 其它
 
 ### [LetsTalk使用指南](/letstalk)
-
