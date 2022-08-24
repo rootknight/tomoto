@@ -10,11 +10,11 @@ import Callout from 'nextra-theme-docs/callout'
 
 [![](./letstalk/download_android.svg)](https://persistence.biatalk.cc/+InstallationFile/Letstalk_app.apk)
 
-[![](./letstalk/download_ios.svg)](https://itunes.apple.com/app/letstalk-im/id1270059337?l=zh-Hans)
+[![](./letstalk/download_ios.svg)](https://apps.apple.com/cn/app/letstalk-im/id1270059337)
 
-[![](./letstalk/download_windows.svg)](https://letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/Letstalk_Install.msi)
+[![](./letstalk/download_windows.svg)](https://persistence.biatalk.cc/+InstallationFile/Letstalk_Install.msi)
 
-[![](./letstalk/download_mac.svg)](https://letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/osx-letstalk.dmg)
+[![](./letstalk/download_mac.svg)](https://persistence.biatalk.cc/+InstallationFile/osx-letstalk.dmg)
 
 
 ## 常见问题
