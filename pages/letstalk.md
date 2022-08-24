@@ -8,7 +8,7 @@ import Callout from 'nextra-theme-docs/callout'
 
 ## 下载Letstalk
 
-[![](./letstalk/download_android.svg)](https://Letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/Letstalk_app.apk)
+[![](./letstalk/download_android.svg)](https://persistence.biatalk.cc/+InstallationFile/Letstalk_app.apk)
 
 [![](./letstalk/download_ios.svg)](https://Letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/Letstalk_app.apk)
 
