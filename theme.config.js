@@ -17,13 +17,13 @@ export default {
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="zh" />
       <meta name="description" content="基于SSRSUB" />
-      <meta name="og:description" content="基于SSRSUB" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content="https://nextra.vercel.app/og.png" />
       <meta name="twitter:site:domain" content="nextra.vercel.app" />
       <meta name="twitter:url" content="https://nextra.vercel.app" />
-      <meta name="og:title" content="免费番茄教程" />
-      <meta name="og:image" content="https://nextra.vercel.app/og.png" />
+      <meta name="og:title" content="" />      
+      <meta name="og:description" content="" />
+      <meta name="og:image" content="❤️" />
       <meta name="apple-mobile-web-app-title" content="免费番茄教程" />
       <link
         rel="apple-touch-icon"
