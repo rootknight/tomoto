@@ -23,7 +23,7 @@ export default {
       <meta name="twitter:url" content="https://nextra.vercel.app" />
       <meta name="og:title" content="" />      
       <meta name="og:description" content="" />
-      <meta name="og:image" content="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/55addb7f-0de7-422a-81c9-b326db23c6a4/391907100_HEART_400.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220907%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220907T093647Z&X-Amz-Expires=86400&X-Amz-Signature=7f80f0a5dd0635e95e8a5d8c1e1bd9715d85ed273ba3f636da4f896fc6373410&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22391907100_HEART_400.png%22&x-id=GetObject" />
+      <meta name="og:image" content="" />
       <meta name="apple-mobile-web-app-title" content="免费番茄" />
       <link
         rel="apple-touch-icon"
