@@ -14,6 +14,10 @@ import Callout from 'nextra-theme-docs/callout'
 
 #### 1.2 登录下面提供的账号
 
+<Callout emoji="💡">
+  **提供的账号可能会失效，可![自行注册非国区苹果账号](https://christapps.net/appleid.htm)**
+</Callout>
+
 ```html
 
 账号： nicola_mcghie@hotmail.com
