@@ -35,9 +35,11 @@ import Callout from 'nextra-theme-docs/callout'
 
 ![](./apple/apple02-16608961103787.png)
 
-## 2 点击这个按钮 👇👇👇
+## 2 点击下方按钮订阅 👇👇👇
 
 [![](./apple/button_import.svg)](shadowrocket://add/https://cdn.jsdelivr.net/gh/ssrsub/ssr@master/Clash.yml)
+
+[![](./apple/button_import.svg)](shadowrocket://add/https://cdn.jsdelivr.net/gh/freefq/free@master/v2)
 
 ## 3 开启服务
 **首先点击 连通性测试 选择一个延迟数字低的 服务器节点，点击最上面开关即可启用**
