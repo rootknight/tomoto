@@ -11,8 +11,10 @@ import Callout from 'nextra-theme-docs/callout'
 
 ![](./mac/mac01.png)
 
-## 2 点击这个按钮 👇👇👇
+## 2 点击下方按钮订阅 👇👇👇
 [![](./mac/button_import.svg)](clash://install-config?url=https://cdn.jsdelivr.net/gh/ssrsub/ssr@master/Clash.yml)
+
+[![](./mac/button_import.svg)](clash://install-config?url=https://cdn.jsdelivr.net/gh/freefq/free@master/v2)
 
 ## 3 启用服务
 **点击 ClashX 图标，勾选 “设置为系统代理” 即可启用**
