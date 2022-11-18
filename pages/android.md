@@ -7,7 +7,7 @@ import Callout from 'nextra-theme-docs/callout'
 </Callout>
 
 ## 1 下载并安装 Clash for Android 客户端
-[![](./android/button_download-16608959279001.svg)](https://ghproxy.com/https://github.com/Kr328/ClashForAndroid/releases/download/v2.4.14/cfa-2.4.14-foss-arm64-v8a-release.apk)
+[![](./android/button_download-16608959279001.svg)](https://ghproxy.com/https://github.com/Kr328/ClashForAndroid/releases/download/v2.4.14/cfa-2.5.12-foss-arm64-v8a-release.apk)
 
 ## 2 点击下方按钮订阅 👇👇👇
 [![](./android/button_import.svg)](clash://install-config?url=https://cdn.jsdelivr.net/gh/ssrsub/ssr@master/Clash.yml)
