@@ -8,7 +8,7 @@ import Callout from 'nextra-theme-docs/callout'
 
 ## 下载Teams
 
-[![](./public/download_android.svg)](https://aka.ms/teams_baidu_direct_dl)
+[![](./public/download_android.svg)](https://pan.besalt.eu.org/d/Public/APK/Microsoft%20Teams_1416.apk?sign=dctfB1hhwvhFY-lHlwRuApOvessfVTWi26yxnJLty6A=:0)
 
 [![](./public/download_ios.svg)](https://apps.apple.com/cn/app/microsoft-teams/id1113153706)
 
@@ -20,7 +20,3 @@ import Callout from 'nextra-theme-docs/callout'
 
 ![可通过两种方式加入会议](./teams/enjoy_meeting.png)
 
-## 常见问题
-### 华为手机无法安装？
-若华为手机提示无法安装，请按照如下操作关闭“纯净模式”后再次安装
-![](./letstalk/image-20220819105410031-16608963651023.png)
