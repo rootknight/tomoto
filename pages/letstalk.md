@@ -8,13 +8,13 @@ import Callout from 'nextra-theme-docs/callout'
 
 ## 下载Letstalk
 
-[![](./letstalk/download_android.svg)](https://letstalk-file.obs.ap-southeast-1.myhuaweicloud.com/InstallationFile/Letstalk_install.apk)
+[![](./public/download_android.svg)](https://letstalk-file.obs.ap-southeast-1.myhuaweicloud.com/InstallationFile/Letstalk_install.apk)
 
-[![](./letstalk/download_ios.svg)](https://apps.apple.com/cn/app/letstalk-im/id1270059337)
+[![](./public/download_ios.svg)](https://apps.apple.com/cn/app/letstalk-im/id1270059337)
 
-[![](./letstalk/download_windows.svg)](https://letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/Letstalk_Install.msi)
+[![](./public/download_windows.svg)](https://letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/Letstalk_Install.msi)
 
-[![](./letstalk/download_mac.svg)](https://letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/osx-letstalk.dmg)
+[![](./public/download_mac.svg)](https://letstalk-file.oss-cn-hongkong.aliyuncs.com/InstallationFile/osx-letstalk.dmg)
 
 
 ## 常见问题

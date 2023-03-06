@@ -8,13 +8,13 @@ import Callout from 'nextra-theme-docs/callout'
 
 ## 下载Teams
 
-[![](./teams/download_android.svg)](https://aka.ms/teams_baidu_direct_dl)
+[![](./public/download_android.svg)](https://aka.ms/teams_baidu_direct_dl)
 
-[![](./teams/download_ios.svg)](https://apps.apple.com/cn/app/microsoft-teams/id1113153706)
+[![](./public/download_ios.svg)](https://apps.apple.com/cn/app/microsoft-teams/id1113153706)
 
-[![](./teams/download_windows.svg)](https://statics.teams.cdn.office.net/production-windows/1.5.00.11002/MSTeamsSetup.exe)
+[![](./public/download_windows.svg)](https://statics.teams.cdn.office.net/production-windows/1.5.00.11002/MSTeamsSetup.exe)
 
-[![](./teams/download_mac.svg)](https://statics.teams.cdn.office.net/production-osx/1.6.00.1159/Teams_osx.pkg)
+[![](./public/download_mac.svg)](https://statics.teams.cdn.office.net/production-osx/1.6.00.1159/Teams_osx.pkg)
 
 ## 加入会议
 
