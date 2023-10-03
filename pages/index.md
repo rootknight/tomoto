@@ -21,6 +21,4 @@ import Callout from 'nextra-theme-docs/callout'
 
 ### [番茄后可以干什么：资源推荐](/guide)
 
-## 其它
 
-### [LetsTalk使用指南](/letstalk)
